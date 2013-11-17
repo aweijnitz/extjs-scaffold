@@ -1,0 +1,25 @@
+{
+  "name": "extjs-scaffold",
+  "version": "0.0.1",
+  "description": "Template based generator for ExtJS MVC widgets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aweijnitz/extjs-scaffold"
+  },
+  "keywords": [
+    "ExtJS",
+    "MVC",
+    "scaffold",
+    "generator"
+  ],
+  "author": "Anders Weijnitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aweijnitz/extjs-scaffold/issues"
+  },
+  "homepage": "https://github.com/aweijnitz/extjs-scaffold"
+}
